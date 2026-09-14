@@ -40,10 +40,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileVoid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CompileVoid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 📫 Connect With Me
